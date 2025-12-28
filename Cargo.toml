@@ -1,5 +1,5 @@
 [package]
-name = "nfq"
+name = "nfq-updated"
 version = "0.2.6"
 authors = ["Gary Guo <gary@garyguo.net>"]
 edition = "2024"
@@ -7,7 +7,7 @@ license = "MIT OR Apache-2.0"
 description = "Rust library for dealing with NetFilter queue"
 keywords = ["netfilter", "nfqueue", "iptables"]
 homepage = "https://github.com/nbdd0121/nfq-rs"
-repository = "https://github.com/nbdd0121/nfq-rs.git"
+repository = "https://github.com/dilluti0n/nfq-rs.git"
 rust-version = "1.85.0"
 
 [dependencies]
